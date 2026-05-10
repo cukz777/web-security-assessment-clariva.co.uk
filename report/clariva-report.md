@@ -12,4 +12,9 @@ No critical vulnerabilities found.
 * HTTPS enforced
 
 ## Risk
+
 Low
+
+## Limitations
+- No authenticated testing
+- No active scanning performed
