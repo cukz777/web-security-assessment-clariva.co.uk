@@ -1,0 +1,4 @@
+whatweb clariva.co.uk
+https://clariva.co.uk [301 Moved Permanently] Apache, Country[GERMANY][DE], HTTPServer[Apache], IP[217.160.0.183], RedirectLocation[https://www.clariva.co.uk], UncommonHeaders[x-ws-origin,x-ws-ratelimit-limit,x-ws-ratelimit-remaining]
+http://clariva.co.uk [301 Moved Permanently] Apache, Country[GERMANY][DE], HTTPServer[Apache], IP[217.160.0.183], RedirectLocation[https://www.clariva.co.uk], UncommonHeaders[x-ws-origin,x-ws-ratelimit-limit,x-ws-ratelimit-remaining]
+https://www.clariva.co.uk [200 OK] Access-Control-Allow-Methods[GET, POST, OPTIONS], Country[GERMANY][DE], Email[info@clariva.co.uk], HTTPServer[IONOS Webserver], IP[212.227.172.252], MetaGenerator[MyWebsite NOW], Script[application/ld+json,text/javascript], Title[Clariva Business Support: Your Partner in Clarity], UncommonHeaders[x-ws-origin,x-ws-ratelimit-limit,x-ws-ratelimit-remaining,link,access-control-allow-methods,access-control-allow-credentials], WordPress
