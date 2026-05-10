@@ -1,0 +1,11 @@
+# HTTP headers (curl -I)
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Connection: keep-alive
+X-WS-Origin: available
+X-WS-RateLimit-Limit: 1000
+X-WS-RateLimit-Remaining: 999
+Date: Sun, 10 May 2026
+Server: Apache
+Cache-Control: max-age=3600
+Location: https://www.clariva.co.uk
