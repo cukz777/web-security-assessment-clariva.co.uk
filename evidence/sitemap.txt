@@ -1,0 +1,6 @@
+# Sitemap summary
+URL: https://www.clariva.co.uk/wp-sitemap.xml
+Number of URLs: 1
+
+Discovered:
+https://www.clariva.co.uk/wp-sitemap-posts-page-1.xml
