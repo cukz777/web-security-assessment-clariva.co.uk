@@ -1,3 +1,5 @@
+⚠️ This assessment was performed with permission and for educational purposes only.
+
 # Web Security Assessment – clariva.co.uk
 
 ## Overview
@@ -33,3 +35,10 @@ Low-risk application with minimal exposure.
 * Reconnaissance
 * Enumeration
 * Security analysis
+
+* ## Lessons Learned
+
+* Not all applications expose exploitable vulnerabilities
+* robots.txt is not a security mechanism
+* Reducing attack surface significantly improves security posture
+
